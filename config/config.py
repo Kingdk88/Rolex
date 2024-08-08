@@ -104,10 +104,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/TheTeamVivek"
+    "SUPPORT_CHANNEL", "https://t.me/FONT_CHANNEL_01"
 )  # Example:- https://t.me/TheTeamVivek
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TheTeamVk"
+    "SUPPORT_GROUP", "https://t.me/exampurrs"
 )  # Example:- https://t.me/TheTeamVk
 
 
@@ -206,7 +206,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg",
+    "https://telegra.ph/file/5766db0d9c0ff3ecc35a6.jpg",
 )
 
 PING_IMG_URL = getenv(
@@ -226,7 +226,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg",
+    "https://telegra.ph/file/253cea2e889e7a5ac2d07.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
